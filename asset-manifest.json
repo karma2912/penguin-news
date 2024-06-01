@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/penguin-news/static/css/main.dc4d6ff2.css",
-    "main.js": "/penguin-news/static/js/main.175fadb2.js",
+    "main.js": "/penguin-news/static/js/main.cffed9ee.js",
     "static/js/453.b2157c12.chunk.js": "/penguin-news/static/js/453.b2157c12.chunk.js",
     "static/media/Walk.gif": "/penguin-news/static/media/Walk.84fed2e46dcd383d7a16.gif",
     "index.html": "/penguin-news/index.html",
     "main.dc4d6ff2.css.map": "/penguin-news/static/css/main.dc4d6ff2.css.map",
-    "main.175fadb2.js.map": "/penguin-news/static/js/main.175fadb2.js.map",
+    "main.cffed9ee.js.map": "/penguin-news/static/js/main.cffed9ee.js.map",
     "453.b2157c12.chunk.js.map": "/penguin-news/static/js/453.b2157c12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.175fadb2.js"
+    "static/js/main.cffed9ee.js"
   ]
 }
