@@ -20,7 +20,6 @@ export class App extends Component {
    <Route path="/sports" element={ <><Navbar/><News key="sports " pageSize={6} country="in" category="sports"/></>}/>
    <Route path="/science" element={ <><Navbar/><News key="science " pageSize={6} country="in" category="science"/></>}/>
  </Routes>
-       {/* <RouterProvider router={router}/> */}
       </div>
     )
   }
