@@ -98,7 +98,7 @@ export class News extends Component {
             );
           })}
         </div>
-        <div className="container d-flex justify-content-between">
+        <div className="container d-flex justify-content-between my-2">
           <button
             disabled={this.state.page <= 1}
             className="btn btn-primary"
