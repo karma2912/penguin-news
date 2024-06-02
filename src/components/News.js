@@ -58,7 +58,7 @@ export class News extends Component {
       loading: true,
     });
       fetch(
-        `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=a211aecd614d436b99ef8e99399a2ff6&page=${
+        `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${process.env.REACT_APP_KEY}&page=${
           this.state.page + 1
         }&pageSize=${this.props.pageSize}`
       )
